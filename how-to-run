@@ -1,0 +1,5 @@
+streamlit run app.py #รันโปรเจค
+python check_keys.py #เช็คคีย์api
+ทดสอบความคงที่ http://localhost:8501/?dev=1
+
+
