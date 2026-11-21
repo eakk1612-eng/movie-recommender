@@ -5,3 +5,5 @@ data/
 static/
 models/
 *.pyc
+.streamlit/
+.vscode/
