@@ -2,18 +2,14 @@
 annotated-types==0.8.0
 anyio==4.15.1
 attrs==26.1.0
-av==19.0.2
 certifi==2026.10.19
 cffi==2.1.1
 charset-normalizer==3.5.2
 click==8.5.0
 colorama==0.4.6
 cryptography==50.0.2
-ctranslate2==4.8.4
 distro==1.9.0
-faster-whisper==1.2.1
 filelock==4.2.4
-flatbuffers==25.12.19
 fsspec==2026.9.0
 google-auth==2.62.0
 google-genai==2.31.0
@@ -32,7 +28,6 @@ jsonschema-specifications==2025.9.1
 MarkupSafe==3.0.4
 narwhals==2.27.1
 numpy==2.5.4
-onnxruntime==1.31.1
 packaging==26.3
 pandas==3.0.6
 pillow==12.3.0
